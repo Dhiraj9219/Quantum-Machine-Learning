@@ -1,0 +1,20 @@
+# Core Python libraries
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+
+# Quantum Machine Learning
+pennylane
+pennylane-qiskit
+qiskit
+
+# Deep Learning (for hybrid models)
+tensorflow
+torch
+
+# Jupyter & experiments
+jupyter
+notebook
+ipykernel
